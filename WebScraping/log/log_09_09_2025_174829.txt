@@ -1,0 +1,16 @@
+2025-09-09 17:48:29,831 [INFO] Início da execução WebScraping
+2025-09-09 17:48:29,840 [INFO] Início do Web Scraping
+2025-09-09 17:48:53,139 [INFO] Navegador iniciado com sucesso
+2025-09-09 17:49:01,492 [INFO] 1 | BTC | Bitcoin | Preço: 111.198 | Valor Mercado: 2.214.836.415.680 | Variação 24h: 0.1 | Volume 24h: 45.129.647.854
+2025-09-09 17:49:01,961 [INFO] 2 | ETH | Ethereum | Preço: 4.290,58 | Valor Mercado: 517.879.311.217 | Variação 24h: 0.1 | Volume 24h: 29.154.814.989
+2025-09-09 17:49:02,388 [INFO] 3 | XRP | XRP | Preço: 2,95 | Valor Mercado: 175.770.723.459 | Variação 24h: 0.7 | Volume 24h: 5.699.979.678
+2025-09-09 17:49:03,174 [INFO] 4 | USDT | Tether | Preço: 1,00 | Valor Mercado: 168.939.060.996 | Variação 24h: 0.0 | Volume 24h: 95.339.068.604
+2025-09-09 17:49:03,722 [INFO] 5 | BNB | BNB | Preço: 875,15 | Valor Mercado: 121.806.780.909 | Variação 24h: 0.2 | Volume 24h: 1.015.532.764
+2025-09-09 17:49:04,130 [INFO] 6 | SOL | Solana | Preço: 215,85 | Valor Mercado: 116.992.567.920 | Variação 24h: 0.2 | Volume 24h: 8.827.532.397
+2025-09-09 17:49:04,487 [INFO] 7 | USDC | USDC | Preço: 0,9999 | Valor Mercado: 72.658.607.519 | Variação 24h: 0.0 | Volume 24h: 9.682.671.555
+2025-09-09 17:49:04,868 [INFO] 8 | STETH | Lido Staked Ether | Preço: 4.282,52 | Valor Mercado: 37.115.998.379 | Variação 24h: 0.1 | Volume 24h: 75.775.148
+2025-09-09 17:49:05,284 [INFO] 9 | DOGE | Dogecoin | Preço: 0,2409 | Valor Mercado: 36.314.713.674 | Variação 24h: 0.4 | Volume 24h: 4.164.793.764
+2025-09-09 17:49:09,986 [INFO] 10 | TRX | TRON | Preço: 0,3342 | Valor Mercado: 31.650.289.404 | Variação 24h: 0.1 | Volume 24h: 869.359.509
+2025-09-09 17:49:09,997 [INFO] Arquivo CSV gerado: saida/moedas_extraidas_webscraping.csv
+2025-09-09 17:49:13,155 [INFO] Navegador fechado
+2025-09-09 17:49:13,157 [INFO] Extração concluída. 10 moedas salvas em saida/moedas_extraidas_webscraping.csv

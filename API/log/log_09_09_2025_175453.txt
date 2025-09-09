@@ -1,0 +1,20 @@
+2025-09-09 17:54:53,514 [INFO] Logger configurado com sucesso.
+2025-09-09 17:54:53,515 [INFO] Início da execução do script API
+2025-09-09 17:54:53,515 [INFO] Início da coleta via API
+2025-09-09 17:54:53,516 [INFO] Iniciando coleta das 10 principais moedas via API
+2025-09-09 17:54:54,256 [INFO] API retornou 10 moedas
+2025-09-09 17:54:54,257 [INFO] 1 | BTC | Bitcoin | Preço: 111.348,00 | Valor Mercado: 2.214.836.415.680,00 | Variação 24h: -0,60 | Volume 24h: 45.494.060.334,00
+2025-09-09 17:54:54,257 [INFO] 2 | ETH | Ethereum | Preço: 4.295,35 | Valor Mercado: 517.879.311.217,00 | Variação 24h: -0,02 | Volume 24h: 29.343.488.780,00
+2025-09-09 17:54:54,257 [INFO] 3 | XRP | XRP | Preço: 2,95 | Valor Mercado: 175.770.723.459,00 | Variação 24h: -0,21 | Volume 24h: 6.208.702.489,00
+2025-09-09 17:54:54,258 [INFO] 4 | USDT | Tether | Preço: 1,00 | Valor Mercado: 168.939.060.996,00 | Variação 24h: 0,00 | Volume 24h: 95.448.346.616,00
+2025-09-09 17:54:54,258 [INFO] 5 | BNB | BNB | Preço: 875,93 | Valor Mercado: 121.806.780.909,00 | Variação 24h: -0,22 | Volume 24h: 1.021.305.115,00
+2025-09-09 17:54:54,258 [INFO] 6 | SOL | Solana | Preço: 216,00 | Valor Mercado: 117.048.304.964,00 | Variação 24h: 0,82 | Volume 24h: 9.101.251.770,00
+2025-09-09 17:54:54,258 [INFO] 7 | USDC | USDC | Preço: 1,00 | Valor Mercado: 72.658.568.217,00 | Variação 24h: 0,01 | Volume 24h: 9.329.966.205,00
+2025-09-09 17:54:54,258 [INFO] 8 | STETH | Lido Staked Ether | Preço: 4.292,32 | Valor Mercado: 37.212.541.785,00 | Variação 24h: 0,20 | Volume 24h: 76.024.012,00
+2025-09-09 17:54:54,258 [INFO] 9 | DOGE | Dogecoin | Preço: 0,24 | Valor Mercado: 36.314.713.674,00 | Variação 24h: 0,97 | Volume 24h: 4.168.936.911,00
+2025-09-09 17:54:54,258 [INFO] 10 | TRX | TRON | Preço: 0,33 | Valor Mercado: 31.643.798.247,00 | Variação 24h: 1,03 | Volume 24h: 886.817.081,00
+2025-09-09 17:54:54,258 [INFO] Coleta via API finalizada com sucesso.
+2025-09-09 17:54:54,262 [INFO] Início da gravação do CSV: saida/moedas_extraidas_api.csv
+2025-09-09 17:54:54,263 [INFO] Arquivo CSV gerado com sucesso: saida/moedas_extraidas_api.csv
+2025-09-09 17:54:54,264 [INFO] Coleta via API concluída: 10 moedas salvas em saida/moedas_extraidas_api.csv
+2025-09-09 17:54:54,264 [INFO] Execução concluída: 10 moedas salvas.
